@@ -1,0 +1,32 @@
+header{
+    background-color: rgb(7, 7, 7);
+ 
+    
+ }
+ h1{
+    color: #f30808;
+    
+}
+
+body{
+    background-color: rgb(222, 222, 230);
+}
+
+footer{
+    background-color: rgb(124, 126, 126);
+   
+    
+}
+
+.lc{
+
+    font-style: none;
+    text-decoration: none; /*tirar barra */
+    color: #fff; /*mudar cor*/
+}
+
+#img_galaxia{
+    height: 300px;
+    width: 500px;
+}
+   
